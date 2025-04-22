@@ -171,9 +171,10 @@ div.video > h1 {
 
 .frasec > h1 > a:hover {
     color: red;
-    transition: 6ms;
+    transition: 0.3s;
 } 
 
 .frasesan > h1 > a:hover {
     color: red;
+    transition: 0.3s;
 }
