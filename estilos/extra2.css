@@ -29,4 +29,8 @@
     div.video {
         padding-bottom: 5px;
     }
+
+    div.video > iframe {
+        border-radius: 10px;
+    }
 }

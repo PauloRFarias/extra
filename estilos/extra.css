@@ -178,3 +178,7 @@ div.video > h1 {
     color: #0b07eb7c;
     transition: 0.3s;
 }
+
+div.video > iframe {
+    border-radius: 10px;
+}
